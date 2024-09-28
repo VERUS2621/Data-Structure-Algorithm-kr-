@@ -17,15 +17,15 @@
 
 ## 참고 사이트(En) & 공부사이트
 
-https://www.javatpoint.com/data-structure-tutorial
+[Data Structures | DS Tutorial - javapoint](https://www.javatpoint.com/data-structure-tutorial)
 
-https://www.w3schools.com/dsa/dsa_intro.php
+[W3Schools.com](https://www.w3schools.com/dsa/dsa_intro.php)
 
-https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
+[GeeksforGeeks](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 
 ---
 
-https://blog.naver.com/revrow2621
+[VERUS 정보 보안](https://blog.naver.com/revrow2621)
 
 Made by Verus2621
 
